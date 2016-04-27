@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Treasure Quest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_criar_time">CriarTimeActivity</string>
+    <string name="title_activity_adicionar_jogador">AdicionarJogadorActivity</string>
+    <string name="title_activity_aguardando_conexao">AguardandoConexaoActivity</string>
+    <string name="title_activity_treasure_quest_barra">TreasureQuestBarraActivity</string>
+    <string name="title_activity_treasure_quest_pergunta">TreasureQuestPerguntaActivity</string>
+</resources>
